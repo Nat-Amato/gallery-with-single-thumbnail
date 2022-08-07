@@ -4,7 +4,7 @@
 
 The original code came from this topic: https://stackoverflow.com/questions/62608061/modal-image-gallery-slider-fullscreen
 
-I inserted the HTML attribute hidden <p hidden></p> to hide the other gallery thumbnails.
+I inserted the HTML attribute hidden to hide the other gallery thumbnails.
 
 ```
 <p hidden></p>
