@@ -11,4 +11,4 @@ Io ho inserito l'attributo HTML hidden <p hidden></p> per nascondere le altre mi
 
 In fine, questa riga di codice esterna alla classe div, permette di modificare la miniatura da mostrare indipendentemente dal contenuto della gallery.
 
-<img src="" style="width:50%" onclick="openModalAA()" class="hover-shadowAA cursor">
+img src="" style="width:50%" onclick="openModalAA()" class="hover-shadowAA cursor"
