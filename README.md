@@ -4,13 +4,11 @@
 
 The original code came from this topic: https://stackoverflow.com/questions/62608061/modal-image-gallery-slider-fullscreen
 
-I inserted the HTML attribute hidden 
+I inserted the HTML attribute hidden <p hidden></p> to hide the other gallery thumbnails.
 
 ```
 <p hidden></p>
 ```
-
-I inserted the HTML attribute hidden <p hidden></p> to hide the other gallery thumbnails.
 
 In the end, this line of code external to the div class, allows you to change the thumbnail to show regardless of the gallery content.
 
